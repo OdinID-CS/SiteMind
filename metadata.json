@@ -1,0 +1,6 @@
+{
+  "name": "SiteMind",
+  "description": "AI-Driven Field Report Writer App with audio dictation, Gemini transcription/formatting, and Word (.docx) document compilation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
